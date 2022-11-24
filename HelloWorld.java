@@ -20,7 +20,7 @@ public class AreaCircle{
         
         System.out.println("Second commit is succesfull");
         
-        
+         System.out.println("Third commit is succesfull");
         
     }
 }
