@@ -22,8 +22,13 @@ public class AreaCircle{
         
          System.out.println("Third commit is succesfull");
         
+
+        
+         System.out.println("Creating another branch to not to loose our version");
+
         System.out.println("Now i want to merge patch 1 and master to be called at once");
         
+
         
     }
 }
